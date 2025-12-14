@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.env
+.venv
+venv/
+
+# PyTorch
+*.pt
+*.pth
+
+# Build artifacts
+build/
+dist/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+compile_commands.json
+
+# Visual Studio / MSVC
+.vs/
+*.obj
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.idb
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tmp
+*.swp
